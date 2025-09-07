@@ -25,8 +25,8 @@ const projects = [
     title: 'Bitcoin Price Forecasting',
     description: 'Deep learning LSTM model predicting BTC trends. Trained on 2000 days of historical data, forecasts next 25 days with advanced visualizations.',
     techStack: ['Python', 'LSTM', 'TensorFlow', 'Data Analysis'],
-    image: 'image/bookhive.png',
-     gradient: 'from-[#a855f7] to-[#00ff88]',
+    image: 'https://images.unsplash.com/photo-1745301754104-4effee07d6ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiaXRjb2luJTIwY3J5cHRvY3VycmVuY3klMjBkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwxfHx8fDE3NTcxOTI4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    gradient: 'from-[#a855f7] to-[#00ff88]',
     category: 'AI/ML'
   },
   {
