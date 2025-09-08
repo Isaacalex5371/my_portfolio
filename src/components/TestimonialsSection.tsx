@@ -14,8 +14,8 @@ const testimonials = [
     quote: 'When it comes to React development, he\'s the guy I\'d trust. Clean code, structured logic, and beautiful UI.',
     initials: 'SS',
     specialty: 'full-stack Development',
-    image: 'https://images.unsplash.com/photo-1663535067514-66386c117b6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMHNjaWVuY2UlMjBzdHVkZW50fGVufDF8fHx8MTc1NzE5NTYxNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral'
-  },
+    image: 'image/lasim.JPEG'
+   },
   {
     name: 'Henok Mulugeta',
     quote: 'His Android apps aren\'t just functional, they\'re smooth and user-friendly. He knows how to make things work in the real world.',
@@ -41,8 +41,8 @@ const testimonials = [
     quote: 'He doesn\'t just code, he creates experiences. His React apps look professional and intuitive.',
     initials: 'YK',
     specialty: 'full stack developer',
-    image: 'https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyJTIwaGVhZHNob3R8ZW58MXx8fHwxNzU3MTA4ODU4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral'
-  }
+    image: 'image/yab.jpg'
+    }
 ];
 
 export function TestimonialsSection() {
